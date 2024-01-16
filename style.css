@@ -1,5 +1,6 @@
 body{
-    background-color:#c8ff00;
+    background-color:#fff;
+    
 }
 button{
     color:  fuchsia;
@@ -17,4 +18,59 @@ option{
 }
 select{
     background-color: blueviolet;
+}
+
+
+.content{
+    color:#000;
+    font-family:sans-serif;
+    font-weight: bold;
+
+}
+
+
+
+.outer-box{
+    height: 500px;
+    width: 100%;
+    background: #c8ff00;
+    /* margin-top: 50px;
+    margin-left: 50px;
+    padding-left: 20px;
+    padding-top: 30px; */
+    padding: 10px;
+    border: 1px solid;
+    border-color: crimson;
+    
+}
+
+.box1{
+    width: 40%;
+    height: 30%;
+    background:red ;
+    float: left;
+    margin: 10px;
+
+}
+.box2{
+    width: 40%;
+    height: 30%;
+    background:blue ;
+    float: left;
+    margin: 10px;
+}
+.box3{
+    width: 40%;
+    height: 30%;
+    background:green;
+    float: left;
+    margin: 10px;
+}
+.box4{
+    width: 40%;
+    height: 30%;
+    background:orange ;
+    float: left;
+    margin: 10px;
+
 }

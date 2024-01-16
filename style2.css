@@ -1,0 +1,25 @@
+#h1{
+    color: blue;
+    background-color: rgb(0, 255, 0);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+#h2{
+    color:aqua;
+    background-color: blueviolet;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+.content{
+    color:deeppink;
+    background-color: darkkhaki;
+    font-family:sans-serif;
+    font-weight: 400;
+
+}
+
+
+body{
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+}
