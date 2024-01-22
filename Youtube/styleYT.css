@@ -1,0 +1,45 @@
+
+
+body{
+    margin: 0px;
+}
+
+.parent{
+    width: 1500px;
+    height: 1000px;
+}
+
+.side-bar {
+    background-color: rgb(70, 66, 66);
+    width: 15%;
+    height: 100%;
+    float: left;
+    text-decoration: none;
+    padding-top: 20px;
+}
+.side-bar ul{
+    list-style: none;
+ 
+}
+.side-bar a{
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 30px;
+}
+.side-bar li{
+    margin-top: 30px;
+    background-color: gray;
+    font-size: larger;
+    line-height: 50px;
+    padding:0px 10px 0px 0px;
+    border-radius: 10vw 0 0 10vw;
+
+}
+
+
+.main-body{
+    background-color: gray;
+    float: left;
+    height: 100%;
+    width: 85%;
+}
